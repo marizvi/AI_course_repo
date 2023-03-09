@@ -4,7 +4,7 @@
 
 ### Index : 
 
-> - There are 4 lab reports:
+There are 4 lab reports:
 		1. Week 1 : To design a graph search agent and understand the use of a hash table, queue in state space search.
 		2. Week 2 : To understand the use of Heuristic function for reducing the size of the search space.  Explore non-classical search algorithms for large problems.
 		3. Week 3 : Non-deterministic Search | Simulated Annealing
